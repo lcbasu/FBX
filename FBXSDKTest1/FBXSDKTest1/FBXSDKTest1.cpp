@@ -2,7 +2,7 @@
 //
 
 #include "stdafx.h"
-
+#include <fbxsdk.h>
 
 int _tmain(int argc, _TCHAR* argv[])
 {
